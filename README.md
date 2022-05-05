@@ -1,0 +1,2 @@
+# Radar_signal_May2022
+Objective of Python script:  1. Maximum range a radar can detect with respect to bandwidth and intermediate frequency. 2. Distance measurement of 3 targets with their Intermediate frequencies observed by the radar signals.  3. Measurement of Doppler velocities of different targets with respect to their Doppler frequencies. 4. Measurement of maximum velocity that a sensor can detect 5. Measurement of velocity resolution depending on chirp rate.
